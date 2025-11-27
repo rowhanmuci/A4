@@ -1,0 +1,28 @@
+#解凍(12, 13)
+Epoch 01 | loss=5.7889 | BLEU=1.42
+Epoch 02 | loss=4.5568 | BLEU=4.87
+Epoch 03 | loss=4.2474 | BLEU=4.84
+Epoch 04 | loss=4.0347 | BLEU=7.33
+Epoch 05 | loss=3.8675 | BLEU=6.52
+Epoch 06 | loss=3.7232 | BLEU=7.77
+Epoch 07 | loss=3.5906 | BLEU=8.74
+Epoch 08 | loss=3.4737 | BLEU=8.24
+Epoch 09 | loss=3.3565 | BLEU=8.52
+Epoch 10 | loss=3.2504 | BLEU=8.79
+Epoch 11 | loss=3.1440 | BLEU=8.89
+Epoch 12 | loss=3.0450 | BLEU=9.00
+Epoch 13 | loss=2.9468 | BLEU=8.40
+Epoch 14 | loss=2.8485 | BLEU=8.85
+Epoch 15 | loss=2.7529 | BLEU=8.16
+Final Test BLEU: 8.78
+
+Epoch 01 | loss=5.1217 | BLEU=3.41
+Epoch 02 | loss=4.1168 | BLEU=6.84
+Epoch 03 | loss=3.7475 | BLEU=8.09
+Epoch 04 | loss=3.4569 | BLEU=8.26
+Epoch 05 | loss=3.1963 | BLEU=8.94
+Epoch 06 | loss=2.9497 | BLEU=9.01
+Epoch 07 | loss=2.7065 | BLEU=8.07
+Epoch 08 | loss=2.4803 | BLEU=8.42
+Epoch 09 | loss=2.2786 | BLEU=8.37
+Final Test BLEU: 9.09
